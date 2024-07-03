@@ -1,3 +1,5 @@
+#1일차 실습 과제 - scrapy 진행
+
 import scrapy
 
 class MySpider(scrapy.Spider):
